@@ -206,11 +206,11 @@ Automation
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://linkedin.com/in/apoorva-shrivastava-742a411aa">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:apoorvashrivastava.25@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
