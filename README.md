@@ -6,7 +6,8 @@
 
 # Hi 👋 I'm Apoorva Shrivastava
 
-<img src="YOUR_PROFILE_PHOTO_URL" width="180" style="border-radius:50%" alt="Apoorva"/>
+<!-- <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100" width="180" style="border-radius:50" alt="Apoorva"/> -->
+
 
 ### Data Analyst | SQL | Power BI | Oracle EBS | ETL | SAP | AWS | Azure | Gen AI
 
